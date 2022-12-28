@@ -1,0 +1,18 @@
+<header>
+    <div><img src="/public/stylesheets/img/logo_javascript.png" alt="logo de pagina""></div>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <% if (locals.userLogin) { %>
+                <li><a href="#">Bienvenido <%= locals.userLogin.nombre %> </a></li>
+                <form action="/users/logout?_method=DELETE" method="post">
+                    <button type="submit">cerrar sesion</button>
+                </form>
+            <% } else { %>
+                
+            <li><a href="/users/login">Login</a></li>
+            <li><a href="/users/register">Register</a></li>
+            <% } %> 
+        </ul>
+    </nav>
+</header>

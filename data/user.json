@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Canela",
+        "email": "canelaNutella@gmail.com",
+        "edad": "",
+        "pass": "$2a$12$PRJOIks3BVa.VE2NL67cFOUDtnaglw.B41.wXbjbsUWn2CUDhL2ye",
+        "rol": "usuario"
+    },
+    {
+        "id": 3,
+        "name": "Horus",
+        "email": "horus.gato.gordo@gmail.com",
+        "edad": "",
+        "pass": "$2a$12$sIunCeRemLQ0Z1acftIOmu7EwQjv8CshULeL56rQpnlxFPrUk/.4C",
+        "colors": "#800080",
+        "rol": "usuario"
+    },
+    {
+        "id": 4,
+        "name": "martin avendaño",
+        "email": "avendanomartin590@gmail.com",
+        "edad": "55",
+        "pass": "$2a$12$mIu4lNYfQd/lDsCvUWYIbO4bIxEBt8pUI30v6ZJ1jvjsJyiMJz6VO",
+        "rol": "usuario"
+    },
+    {
+        "id": 5,
+        "name": "martin avendaño",
+        "email": "avendanomartin590@gmail.com",
+        "edad": "55",
+        "pass": "$2a$12$APv2Za0ELUouva3PRu5RQeCNP7.HdscgILiuMNxFx0wICpDYNKJw2",
+        "rol": "usuario"
+    },
+    {
+        "id": 6,
+        "name": "martin",
+        "email": "avendanomartin590@gmail.com",
+        "edad": "55",
+        "pass": "$2a$12$ZXfZoWpipAKYuUnfossNg.CWCtFoaVGiQw7huOG9iM7j7aL3XN4jS",
+        "rol": "usuario"
+    }
+]
